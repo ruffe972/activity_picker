@@ -1,0 +1,24 @@
+[
+    {
+        "name": "TV series",
+        "weight_ratio": 0.2
+    },
+    {
+        "name": "Movies",
+        "weight_ratio": 0.3
+    },
+    {
+        "name": "Super Mario 3D World",
+        "weight_mult": 2
+    },
+    {
+        "name": "Checkers",
+        "weight_mult": 0.4
+    },
+    {
+        "name": "Chess"
+    },
+    {
+        "name": "Overcooked 2"
+    }
+]
