@@ -1,7 +1,8 @@
-from typing import List, Optional
-from config import Activity, ActivityError, Configuration, ConfigError
 import unittest
-from math import nan, inf
+from math import inf, nan
+from typing import List, Optional
+
+from config import Activity, ActivityError, ConfigError, Configuration
 from picker import Picker, PickerError
 
 

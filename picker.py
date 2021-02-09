@@ -1,6 +1,7 @@
-from typing import Dict, List, Optional
-from config import Activity, Configuration
 import random
+from typing import Dict, List, Optional
+
+from config import Activity, Configuration
 
 
 class Picker:

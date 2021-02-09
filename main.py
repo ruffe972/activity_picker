@@ -1,7 +1,8 @@
 import sys
 from typing import Dict
+
+from config import ConfigError, Configuration
 from picker import Picker, PickerError
-from config import Configuration, ConfigError
 
 _CONFIG = 'C:/Users/Ivan/f/other/activities.json'
 
