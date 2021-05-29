@@ -4,8 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pydantic = "~=1.7.0"
 
 [dev-packages]
+mypy = "*"
+pycodestyle = "~=2.6.0"
 
 [requires]
 python_version = "3.9"
